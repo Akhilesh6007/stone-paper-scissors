@@ -2,8 +2,6 @@ import random as rn
 num = rn.randint(1,6)
 print(num)
 
-
-
 import random
 
 best_of_rounds = int(input('Enter no.of rounds you want to play: '))
